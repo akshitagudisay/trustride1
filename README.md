@@ -167,7 +167,11 @@ Weather APIs        Behavioral Engine
 
 ## 10. Tech Stack
 
-Frontend: Flutter / React Native  
+Frontend: React (with TypeScript)
+Vite (build tool)
+Tailwind CSS + shadcn/ui (styling & UI)
+React Query + React Hook Form (data & forms)
+#future integrations
 Backend: FastAPI / Node.js  
 ML: Python (Scikit-learn, PyTorch)  
 Database: PostgreSQL / MongoDB  
